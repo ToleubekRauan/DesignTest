@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="iv_width">87.6dp</dimen>
+    <dimen name="iv_heigth">123.52dp</dimen>
+
+    <dimen name="tv_heigth">25.29dp</dimen>
+    <dimen name="tv_margin_left">10.66dp</dimen>
+    <dimen name="tv_margin_right">9.375dp</dimen>
+    <dimen name="tx_size">10.56dp</dimen>
+    <dimen name="tx_margin_bottom">97.07dp</dimen>
+    <dimen name="iv_margin_top">92.94dp</dimen>
+
+
+
+    <dimen name="iv_slider_2_width">273dp</dimen>
+    <dimen name="iv_slider_2_heigth">140dp</dimen>
+    <dimen name="iv_slider_2_2_width">291dp</dimen>
+    <dimen name="iv_slider_2_2_heigth">132dp</dimen>
+    <dimen name="margin_between_ivS">153dp</dimen>
+    <dimen name="margin_bottom">69dp</dimen>
+</resources>
